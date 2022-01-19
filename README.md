@@ -3,6 +3,8 @@ TAFE Queensland, has a website to access the [class timetables](https://timetabl
 
 This project has a companion blog post on my blog [here](https://simonmcmahon.com/blog/tafe-timetable-python/).
 
+The repository contains sample copied text in the files `timetable-text-1week.txt`, `timetable-text-4week.txt` and `timetable-text-all.txt`. 
+
 The website text output looks like this:
 
 ![website screenshot](/images/tafe-timetable-python/timetable.png)
